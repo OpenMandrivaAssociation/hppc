@@ -1,6 +1,7 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          hppc
 Version:       0.5.3
-Release:       4%{?dist}
+Release:       5%{?dist}
 Summary:       High Performance Primitive Collections for Java
 License:       ASL 2.0
 URL:           http://labs.carrotsearch.com/hppc.html
