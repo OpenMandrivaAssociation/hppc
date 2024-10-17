@@ -6,7 +6,7 @@ Release:       5.1
 Summary:       High Performance Primitive Collections for Java
 License:       ASL 2.0
 Group:         Development/Java
-URL:           http://labs.carrotsearch.com/hppc.html
+URL:           https://labs.carrotsearch.com/hppc.html
 Source0:       https://github.com/carrotsearch/hppc/archive/%{version}.tar.gz
 
 BuildRequires: maven-local
