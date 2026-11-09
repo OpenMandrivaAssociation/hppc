@@ -1,4 +1,5 @@
+sources:
+  hppc-0.13.0.tar.gz: 5fd4d7203193495ad378a968255f5c8fbad20d7c
 removed_sources:
   0.5.3.tar.gz: dfcbbf19c76c58209edf8a2b7a1c9a59167fcdac
-sources:
   0.7.1.tar.gz: 0e082729c1f62b681f08ee3c1e3c6aba03404937
